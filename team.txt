@@ -2,5 +2,4 @@ Leader = andiw
 BA = rosid
 SA = Ruslan
 Programmer = herman
-Programmer =
- rini wulanda
+Programmer = rini wulanda
